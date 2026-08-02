@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class CF2237F_PaintTheArray {
 
     static class FastScanner {
         private final InputStream in = System.in;

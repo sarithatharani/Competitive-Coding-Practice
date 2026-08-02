@@ -13,7 +13,7 @@ competitive-coding-practice/
 │       └── README.md
 └── codeforces/
     └── <contest><problem>-<problem-name>/
-        ├── Main.<ext>
+        ├── <ContestProblem>_<ProblemName>.<ext>
         └── README.md
 ```
 
