@@ -25,3 +25,5 @@ explaining the approach/logic.
 | Date | Platform | Problem | Difficulty | Language | Status |
 |---|---|---|---|---|---|
 | 2026-08-02 | Codeforces | [2237F - Paint the Array](codeforces/2237F-Paint-the-Array) | Div. 1/2 F | Java | ✅ Accepted |
+| 2026-08-03 | Codeforces | [116A - Tram](codeforces/116A-Tram) | 1000 | Java | ✅ Accepted |
+| 2026-08-03 | Codeforces | [118A - String Task](codeforces/118A-String-Task) | 1000 | Java | ✅ Accepted |
